@@ -18,17 +18,17 @@ The project processes raw demographic and housing datasets through Bronze, Silve
 
                                         Raw Census and Housing Data
                                                     ↓
-                                              Bronze Layer
+                                               Bronze Layer
                                                     ↓
                                                Silver Layer
                                                     ↓
-                                               Gold Layer
+                                                Gold Layer
                                                     ↓
-                                        Feature Engineering and Scoring
+                                       Feature Engineering and Scoring
                                                     ↓
-                                        Regional Ranking and Prediction
+                                       Regional Ranking and Prediction
                                                     ↓
-                                        Interactive Dashboard Insights
+                                       Interactive Dashboard Insights
                                         
 ```
 
